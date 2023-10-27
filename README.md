@@ -8,7 +8,7 @@ A Front-end Developer / Explorer interested in learning new skills, willing to c
 <br />
 📔 I write [blogs](https://medium.com/@rrubyitzuchen/about-my-career-changing-1-8e2fc3ba069e) about how I decided to change my career path.
 <br />
-📫 You can reach me by sending [gmail](rrubyitzuchen@gmail).
+📫 You can reach me [here](rrubyitzuchen@gmail).
 <!--
 **RubyTzu/RubyTzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
