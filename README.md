@@ -3,8 +3,12 @@
 I am Ruby<br />
 a Front-end Developer / Explorer interested in learning new skills, willing to communicate and discuss, and possessing organizational skills.
 
-🌱 I’m currently learning: Frontend development skills <br />
-🌐 I build my [portfolio](https://rubytzu.github.io/Next.js-Developer-Portfolio) with Next.js and Tailwind CSS, thanks to [CodeBuck's Tutorial](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code). <br />
+🌱 I’m currently learning: Frontend development skills 
+<br />
+<br />
+🌐 I build my [portfolio](https://rubytzu.github.io/Next.js-Developer-Portfolio) with Next.js and Tailwind CSS, thanks to [CodeBuck's Tutorial](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code). 
+<br />
+<br />
 📫 How to reach me: [Gmail](rrubyitzuchen@gmail)
 <!--
 **RubyTzu/RubyTzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
