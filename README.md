@@ -1,6 +1,5 @@
-# Hi there 👋
+# Hi there 👋 I am Ruby
 
-I am Ruby<br />
 a Front-end Developer / Explorer interested in learning new skills, willing to communicate and discuss, and possessing organizational skills.
 <br /><br /><br />
 🌱 I’m currently learning: Frontend development skills 
