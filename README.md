@@ -4,7 +4,7 @@ A Front-end Developer / Explorer interested in learning new skills, willing to c
 <br /><br /><br />
 🌱 I’m currently learning: Frontend development skills 
 <br />
-🌐 I build my [portfolio](https://rubytzu.github.io/Next.js-Developer-Portfolio) with Next.js and Tailwind CSS, thanks to [CodeBuck's Tutorial](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code). 
+🌐 I build my [portfolio](https://rrubyitzuchen.vercel.app/) with Next.js and Tailwind CSS. 
 <br />
 📔 I write [blogs](https://medium.com/@rrubyitzuchen/about-my-career-changing-1-8e2fc3ba069e) about how I decided to change my career path.
 <br />
